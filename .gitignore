@@ -1,2 +1,7 @@
+# directories
 CCvenv/
+data/
 .ipynb_checkpoints/
+
+# files
+config.txt
